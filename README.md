@@ -1,8 +1,6 @@
 # Loan Status Prediction Using Machine Learning
 
-**Author:** Sadeniji  
-**Andrew ID:** Sadeniji  
-**Assignment:** Assignment 3
+**Author:** Samuel Adeniji
 
 ## Overview
 
